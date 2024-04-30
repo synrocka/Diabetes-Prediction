@@ -4,7 +4,7 @@
 
 [Этот датасет на Kaggle](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset/data)
   
-models_Linear - папка с моделью и Pipeline линейной регрессии.
+models_Linear - папка с моделью и Pipeline линейной регрессии.  
 models_Logistic - папка с моделью и Pipeline логистической регрессии.
 
 В EDA.ipynb проведена работа по обработке данных (HW1).  
